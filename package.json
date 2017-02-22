@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-devops",
+  "version": "1.0.0",
+  "description": "Nodejs Devops Demo",
+  "main": "devops.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elrajgit/nodejs-devops.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mocha"
+  ],
+  "author": "Elaia Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elrajgit/nodejs-devops/issues"
+  },
+  "homepage": "https://github.com/elrajgit/nodejs-devops#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
